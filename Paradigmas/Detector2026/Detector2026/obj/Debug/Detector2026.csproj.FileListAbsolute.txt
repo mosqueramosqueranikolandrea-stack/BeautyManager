@@ -1,0 +1,10 @@
+C:\Users\mosqu\source\repos\Paradigmas\Detector2026\Detector2026\bin\Debug\Detector2026.exe.config
+C:\Users\mosqu\source\repos\Paradigmas\Detector2026\Detector2026\bin\Debug\Detector2026.exe
+C:\Users\mosqu\source\repos\Paradigmas\Detector2026\Detector2026\bin\Debug\Detector2026.pdb
+C:\Users\mosqu\source\repos\Paradigmas\Detector2026\Detector2026\obj\Debug\Detector2026.csproj.AssemblyReference.cache
+C:\Users\mosqu\source\repos\Paradigmas\Detector2026\Detector2026\obj\Debug\Detector2026.Properties.Resources.resources
+C:\Users\mosqu\source\repos\Paradigmas\Detector2026\Detector2026\obj\Debug\Detector2026.csproj.GenerateResource.cache
+C:\Users\mosqu\source\repos\Paradigmas\Detector2026\Detector2026\obj\Debug\Detector2026.csproj.CoreCompileInputs.cache
+C:\Users\mosqu\source\repos\Paradigmas\Detector2026\Detector2026\obj\Debug\Detector2026.exe
+C:\Users\mosqu\source\repos\Paradigmas\Detector2026\Detector2026\obj\Debug\Detector2026.pdb
+C:\Users\mosqu\source\repos\Paradigmas\Detector2026\Detector2026\obj\Debug\Detector2026.VentanaPrincipal.resources

@@ -1,0 +1,14 @@
+C:\Users\mosqu\source\repos\Paradigmas\Ejercicio\Ejercicio\obj\Debug\net10.0\CuentaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mosqu\source\repos\Paradigmas\Ejercicio\Ejercicio\obj\Debug\net10.0\CuentaBancaria.AssemblyInfoInputs.cache
+C:\Users\mosqu\source\repos\Paradigmas\Ejercicio\Ejercicio\obj\Debug\net10.0\CuentaBancaria.AssemblyInfo.cs
+C:\Users\mosqu\source\repos\Paradigmas\Ejercicio\Ejercicio\obj\Debug\net10.0\CuentaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\mosqu\source\repos\Paradigmas\Ejercicio\Ejercicio\bin\Debug\net10.0\CuentaBancaria.exe
+C:\Users\mosqu\source\repos\Paradigmas\Ejercicio\Ejercicio\bin\Debug\net10.0\CuentaBancaria.deps.json
+C:\Users\mosqu\source\repos\Paradigmas\Ejercicio\Ejercicio\bin\Debug\net10.0\CuentaBancaria.runtimeconfig.json
+C:\Users\mosqu\source\repos\Paradigmas\Ejercicio\Ejercicio\bin\Debug\net10.0\CuentaBancaria.dll
+C:\Users\mosqu\source\repos\Paradigmas\Ejercicio\Ejercicio\bin\Debug\net10.0\CuentaBancaria.pdb
+C:\Users\mosqu\source\repos\Paradigmas\Ejercicio\Ejercicio\obj\Debug\net10.0\CuentaBancaria.dll
+C:\Users\mosqu\source\repos\Paradigmas\Ejercicio\Ejercicio\obj\Debug\net10.0\refint\CuentaBancaria.dll
+C:\Users\mosqu\source\repos\Paradigmas\Ejercicio\Ejercicio\obj\Debug\net10.0\CuentaBancaria.pdb
+C:\Users\mosqu\source\repos\Paradigmas\Ejercicio\Ejercicio\obj\Debug\net10.0\CuentaBancaria.genruntimeconfig.cache
+C:\Users\mosqu\source\repos\Paradigmas\Ejercicio\Ejercicio\obj\Debug\net10.0\ref\CuentaBancaria.dll
