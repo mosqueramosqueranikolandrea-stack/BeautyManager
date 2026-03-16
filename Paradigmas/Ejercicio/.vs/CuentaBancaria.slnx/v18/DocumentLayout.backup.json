@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mosqu\\source\\repos\\Paradigmas\\Ejercicio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C953808E-97FF-4446-BE0E-1F8DCCE30847}|Ejercicio\\CuentaBancaria.csproj|c:\\users\\mosqu\\source\\repos\\paradigmas\\ejercicio\\ejercicio\\cuentabancaria.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C953808E-97FF-4446-BE0E-1F8DCCE30847}|Ejercicio\\CuentaBancaria.csproj|solutionrelative:ejercicio\\cuentabancaria.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C953808E-97FF-4446-BE0E-1F8DCCE30847}|Ejercicio\\Ejercicio.csproj|c:\\users\\mosqu\\source\\repos\\paradigmas\\ejercicio\\ejercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C953808E-97FF-4446-BE0E-1F8DCCE30847}|Ejercicio\\Ejercicio.csproj|solutionrelative:ejercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CuentaBancaria.csproj",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\Paradigmas\\Ejercicio\\Ejercicio\\CuentaBancaria.csproj",
+              "RelativeDocumentMoniker": "Ejercicio\\CuentaBancaria.csproj",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\Paradigmas\\Ejercicio\\Ejercicio\\CuentaBancaria.csproj",
+              "RelativeToolTip": "Ejercicio\\CuentaBancaria.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-05T13:38:43.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\Paradigmas\\Ejercicio\\Ejercicio\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio\\Program.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\Paradigmas\\Ejercicio\\Ejercicio\\Program.cs",
+              "RelativeToolTip": "Ejercicio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T13:35:52.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

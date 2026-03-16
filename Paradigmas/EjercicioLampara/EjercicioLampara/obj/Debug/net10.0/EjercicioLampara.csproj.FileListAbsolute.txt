@@ -1,0 +1,14 @@
+C:\Users\mosqu\source\repos\Paradigmas\EjercicioLampara\EjercicioLampara\bin\Debug\net10.0\EjercicioLampara.exe
+C:\Users\mosqu\source\repos\Paradigmas\EjercicioLampara\EjercicioLampara\bin\Debug\net10.0\EjercicioLampara.deps.json
+C:\Users\mosqu\source\repos\Paradigmas\EjercicioLampara\EjercicioLampara\bin\Debug\net10.0\EjercicioLampara.runtimeconfig.json
+C:\Users\mosqu\source\repos\Paradigmas\EjercicioLampara\EjercicioLampara\bin\Debug\net10.0\EjercicioLampara.dll
+C:\Users\mosqu\source\repos\Paradigmas\EjercicioLampara\EjercicioLampara\bin\Debug\net10.0\EjercicioLampara.pdb
+C:\Users\mosqu\source\repos\Paradigmas\EjercicioLampara\EjercicioLampara\obj\Debug\net10.0\EjercicioLampara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mosqu\source\repos\Paradigmas\EjercicioLampara\EjercicioLampara\obj\Debug\net10.0\EjercicioLampara.AssemblyInfoInputs.cache
+C:\Users\mosqu\source\repos\Paradigmas\EjercicioLampara\EjercicioLampara\obj\Debug\net10.0\EjercicioLampara.AssemblyInfo.cs
+C:\Users\mosqu\source\repos\Paradigmas\EjercicioLampara\EjercicioLampara\obj\Debug\net10.0\EjercicioLampara.csproj.CoreCompileInputs.cache
+C:\Users\mosqu\source\repos\Paradigmas\EjercicioLampara\EjercicioLampara\obj\Debug\net10.0\EjercicioLampara.dll
+C:\Users\mosqu\source\repos\Paradigmas\EjercicioLampara\EjercicioLampara\obj\Debug\net10.0\refint\EjercicioLampara.dll
+C:\Users\mosqu\source\repos\Paradigmas\EjercicioLampara\EjercicioLampara\obj\Debug\net10.0\EjercicioLampara.pdb
+C:\Users\mosqu\source\repos\Paradigmas\EjercicioLampara\EjercicioLampara\obj\Debug\net10.0\EjercicioLampara.genruntimeconfig.cache
+C:\Users\mosqu\source\repos\Paradigmas\EjercicioLampara\EjercicioLampara\obj\Debug\net10.0\ref\EjercicioLampara.dll
